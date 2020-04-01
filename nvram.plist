@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Clover.MountEFI</key>
+	<data>
+	NjExQ0MzRDQtOTU2RS00MEE2LTgwRTMtMkNDMUE1NUY4MTZG
+	</data>
+	<key>Clover.NVRamDisk</key>
+	<data>
+	WWVz
+	</data>
+	<key>EFILoginHiDPI</key>
+	<data>
+	AQAAAA==
+	</data>
+	<key>EmuVariableUefiPresent</key>
+	<data>
+	WWVz
+	</data>
+	<key>SystemAudioVolume</key>
+	<data>
+	PQ==
+	</data>
+	<key>SystemAudioVolumeDB</key>
+	<data>
+	/Q==
+	</data>
+	<key>csr-active-config</key>
+	<data>
+	5wMAAA==
+	</data>
+	<key>fmm-computer-name</key>
+	<data>
+	aU1hYw==
+	</data>
+	<key>security-mode</key>
+	<string>none</string>
+	<key>specialbootdevice</key>
+	<data>
+	AgEMANBBAwoAAAAAAQEGAAIfAxIKAAEA//8AAAQBKgACAAAAKEAGAAAAAADgHzI6AAAA
+	ADqJmeTsruFJghu34PKzD6ACAgQDJAD3/HS+fAvzSZFHAfQELmhCJ20MPuEK20GLAfAh
+	5EqLS3//BAA=
+	</data>
+</dict>
+</plist>
