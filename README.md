@@ -24,6 +24,10 @@ Clover version: R5107
 6) USBInjectAll: for USB3.0 Injection
 7) Fake
 
+## BIOS Settings
+
+In order to make system more stable: I need to set the RAM voltage to 1.65V or 1.7V. 
+
 ## What works 
 
 - Audio
